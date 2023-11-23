@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escolher Quantidade de Provas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        input {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Escolher Quantidade de Provas</h1>
+
+    <form id="quantidadeProvasForm">
+        <label for="quantidadeProvas">Número de Provas:</label>
+        <input type="number" id="quantidadeProvas" name="quantidadeProvas" required>
+        <br>
+        <button type="button" onclick="escolherQuantidadeProvas()">Escolher Quantidade</button>
+    </form>
+
+    <div id="resultadoQuantidadeProvas"></div>
+
+    <script>
+        function escolherQuantidadeProvas() {
+            var quantidadeProvas = parseInt(document.getElementById("quantidadeProvas").value);
+
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", "/escolher_quantidade_provas", true);
+            xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    var resposta = JSON.parse(xhr.responseText);
+                    exibirResultadoQuantidadeProvas(resposta.quantidadeProvas);
+                }
+            };
+            xhr.send("quantidadeProvas=" + quantidadeProvas);
+        }
+
+        function exibirResultadoQuantidadeProvas(quantidadeProvas) {
+            document.getElementById("resultadoQuantidadeProvas").innerText = `Quantidade de Provas escolhida: ${quantidadeProvas}`;
+        }
+    </script>
+</body>
+</html>

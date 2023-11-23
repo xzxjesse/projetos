@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escolher Pesos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        input {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Escolher Pesos</h1>
+
+    <form id="escolherPesosForm">
+        <label for="pesoP1">Peso da Prova 1:</label>
+        <input type="number" step="0.01" id="pesoP1" name="pesoP1" required>
+        <br>
+        <label for="pesoP2">Peso da Prova 2:</label>
+        <input type="number" step="0.01" id="pesoP2" name="pesoP2" required>
+        <br>
+        <label for="pesoP3">Peso da Prova 3:</label>
+        <input type="number" step="0.01" id="pesoP3" name="pesoP3" required>
+        <br>
+        <button type="button" onclick="escolherPesos()">Escolher Pesos</button>
+    </form>
+
+    <div id="resultadoPesos"></div>
+
+    <script>
+        function escolherPesos() {
+            var pesoP1 = parseFloat(document.getElementById("pesoP1").value);
+            var pesoP2 = parseFloat(document.getElementById("pesoP2").value);
+            var pesoP3 = parseFloat(document.getElementById("pesoP3").value);
+
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", "/escolher_pesos", true);
+            xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    var resposta = JSON.parse(xhr.responseText);
+                    exibirResultadoPesos(resposta.pesoP1, resposta.pesoP2, resposta.pesoP3);
+                }
+            };
+            xhr.send("pesoP1=" + pesoP1 + "&pesoP2=" + pesoP2 + "&pesoP3=" + pesoP3);
+        }
+
+        function exibirResultadoPesos(pesoP1, pesoP2, pesoP3) {
+            document.getElementById("resultadoPesos").innerText = `Pesos escolhidos: P1 = ${pesoP1}, P2 = ${pesoP2}, P3 = ${pesoP3}`;
+        }
+    </script>
+</body>
+</html>

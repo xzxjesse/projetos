@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calcular Nota da Prova</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        input {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Calcular Nota da Prova</h1>
+
+    <form id="calculoNotaForm">
+        <label for="totalQuestoes">Total de Questões:</label>
+        <input type="number" id="totalQuestoes" name="totalQuestoes" required>
+        <br>
+        <label for="corretas">Questões Corretas:</label>
+        <input type="number" id="corretas" name="corretas" required>
+        <br>
+        <label for="erradas">Questões Erradas:</label>
+        <input type="number" id="erradas" name="erradas" required>
+        <br>
+        <label for="fatorCorrecao">Fator de Correção:</label>
+        <input type="number" step="0.01" id="fatorCorrecao" name="fatorCorrecao" required>
+        <br>
+        <button type="button" onclick="calcularNota()">Calcular Nota</button>
+    </form>
+
+    <div id="resultado"></div>
+
+    <script>
+        function calcularNota() {
+            var totalQuestoes = parseFloat(document.getElementById("totalQuestoes").value);
+            var corretas = parseFloat(document.getElementById("corretas").value);
+            var erradas = parseFloat(document.getElementById("erradas").value);
+            var fatorCorrecao = parseFloat(document.getElementById("fatorCorrecao").value);
+
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", "/calcular_nota_prova", true);
+            xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    var resposta = JSON.parse(xhr.responseText);
+                    exibirResultado(resposta.nota);
+                }
+            };
+            xhr.send("totalQuestoes=" + totalQuestoes + "&corretas=" + corretas + "&erradas=" + erradas + "&fatorCorrecao=" + fatorCorrecao);
+        }
+
+        function exibirResultado(nota) {
+            document.getElementById("resultado").innerText = "Nota: " + nota.toFixed(2);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Usuário</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Cadastro de Usuário</h1>
+
+    <form id="cadastroForm">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" required>
+        <br>
+        <label for="senha">Senha:</label>
+        <input type="password" id="senha" name="senha" required>
+        <br>
+        <button type="button" onclick="cadastrarUsuario()">Cadastrar Usuário</button>
+    </form>
+
+    <div id="mensagemCadastro"></div>
+
+    <script>
+        function cadastrarUsuario() {
+            var nome = document.getElementById("nome").value;
+            var senha = document.getElementById("senha").value;
+
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", "/cadastrar_usuario", true);
+            xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    var resposta = JSON.parse(xhr.responseText);
+                    exibirMensagemCadastro(resposta.mensagem);
+                }
+            };
+            xhr.send("nome=" + nome + "&senha=" + senha);
+        }
+
+        function exibirMensagemCadastro(mensagem) {
+            var mensagemCadastro = document.getElementById("mensagemCadastro");
+            mensagemCadastro.innerText = mensagem;
+            mensagemCadastro.style.display = "block";
+        }
+    </script>
+</body>
+</html>

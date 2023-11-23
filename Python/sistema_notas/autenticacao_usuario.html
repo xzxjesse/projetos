@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Autenticação de Usuário</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        input {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Autenticação de Usuário</h1>
+
+    <form id="autenticacaoForm">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" required>
+        <br>
+        <label for="senha">Senha:</label>
+        <input type="password" id="senha" name="senha" required>
+        <br>
+        <button type="button" onclick="autenticarUsuario()">Login</button>
+    </form>
+
+    <div id="mensagem"></div>
+
+    <script>
+        function autenticarUsuario() {
+            var nome = document.getElementById("nome").value;
+            var senha = document.getElementById("senha").value;
+
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", "/autenticar_usuario", true);
+            xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    var resposta = JSON.parse(xhr.responseText);
+                    exibirMensagem(resposta.mensagem);
+                    if (resposta.autenticado) {
+                        // Redirecionar para a próxima página ou realizar outra ação após autenticação
+                    }
+                }
+            };
+            xhr.send("nome=" + nome + "&senha=" + senha);
+        }
+
+        function exibirMensagem(mensagem) {
+            document.getElementById("mensagem").innerText = mensagem;
+        }
+    </script>
+</body>
+</html>
