@@ -1,0 +1,14 @@
+C:\Users\jeeve\source\repos\Aula2\Aula2\obj\Debug\net8.0\Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeeve\source\repos\Aula2\Aula2\obj\Debug\net8.0\Aula2.AssemblyInfoInputs.cache
+C:\Users\jeeve\source\repos\Aula2\Aula2\obj\Debug\net8.0\Aula2.AssemblyInfo.cs
+C:\Users\jeeve\source\repos\Aula2\Aula2\obj\Debug\net8.0\Aula2.csproj.CoreCompileInputs.cache
+C:\Users\jeeve\source\repos\Aula2\Aula2\bin\Debug\net8.0\Aula2.exe
+C:\Users\jeeve\source\repos\Aula2\Aula2\bin\Debug\net8.0\Aula2.deps.json
+C:\Users\jeeve\source\repos\Aula2\Aula2\bin\Debug\net8.0\Aula2.runtimeconfig.json
+C:\Users\jeeve\source\repos\Aula2\Aula2\bin\Debug\net8.0\Aula2.dll
+C:\Users\jeeve\source\repos\Aula2\Aula2\bin\Debug\net8.0\Aula2.pdb
+C:\Users\jeeve\source\repos\Aula2\Aula2\obj\Debug\net8.0\Aula2.dll
+C:\Users\jeeve\source\repos\Aula2\Aula2\obj\Debug\net8.0\refint\Aula2.dll
+C:\Users\jeeve\source\repos\Aula2\Aula2\obj\Debug\net8.0\Aula2.pdb
+C:\Users\jeeve\source\repos\Aula2\Aula2\obj\Debug\net8.0\Aula2.genruntimeconfig.cache
+C:\Users\jeeve\source\repos\Aula2\Aula2\obj\Debug\net8.0\ref\Aula2.dll

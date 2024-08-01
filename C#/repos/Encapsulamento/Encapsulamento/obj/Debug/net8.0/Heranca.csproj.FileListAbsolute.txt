@@ -1,0 +1,4 @@
+C:\Users\jeeve\source\repos\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeeve\source\repos\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Heranca.AssemblyInfoInputs.cache
+C:\Users\jeeve\source\repos\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Heranca.AssemblyInfo.cs
+C:\Users\jeeve\source\repos\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Heranca.csproj.CoreCompileInputs.cache

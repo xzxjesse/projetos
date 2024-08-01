@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeeve\\source\\repos\\Abstracao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41DD600B-846D-4029-A624-4EC9B6CC3DF1}|Abstracao\\Abstracao.csproj|c:\\users\\jeeve\\source\\repos\\abstracao\\abstracao\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DD600B-846D-4029-A624-4EC9B6CC3DF1}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DD600B-846D-4029-A624-4EC9B6CC3DF1}|Abstracao\\Abstracao.csproj|c:\\users\\jeeve\\source\\repos\\abstracao\\abstracao\\passaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DD600B-846D-4029-A624-4EC9B6CC3DF1}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\passaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DD600B-846D-4029-A624-4EC9B6CC3DF1}|Abstracao\\Abstracao.csproj|c:\\users\\jeeve\\source\\repos\\abstracao\\abstracao\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DD600B-846D-4029-A624-4EC9B6CC3DF1}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DD600B-846D-4029-A624-4EC9B6CC3DF1}|Abstracao\\Abstracao.csproj|c:\\users\\jeeve\\source\\repos\\abstracao\\abstracao\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DD600B-846D-4029-A624-4EC9B6CC3DF1}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DD600B-846D-4029-A624-4EC9B6CC3DF1}|Abstracao\\Abstracao.csproj|c:\\users\\jeeve\\source\\repos\\abstracao\\abstracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DD600B-846D-4029-A624-4EC9B6CC3DF1}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Passaro.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Abstracao\\Abstracao\\Passaro.cs",
+              "RelativeDocumentMoniker": "Abstracao\\Passaro.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Abstracao\\Abstracao\\Passaro.cs",
+              "RelativeToolTip": "Abstracao\\Passaro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:36:17.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gato.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Abstracao\\Abstracao\\Gato.cs",
+              "RelativeDocumentMoniker": "Abstracao\\Gato.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Abstracao\\Abstracao\\Gato.cs",
+              "RelativeToolTip": "Abstracao\\Gato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:36:03.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cachorro.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Abstracao\\Abstracao\\Cachorro.cs",
+              "RelativeDocumentMoniker": "Abstracao\\Cachorro.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Abstracao\\Abstracao\\Cachorro.cs",
+              "RelativeToolTip": "Abstracao\\Cachorro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:35:51.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Abstracao\\Abstracao\\Animal.cs",
+              "RelativeDocumentMoniker": "Abstracao\\Animal.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Abstracao\\Abstracao\\Animal.cs",
+              "RelativeToolTip": "Abstracao\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:32:07.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Abstracao\\Abstracao\\Program.cs",
+              "RelativeDocumentMoniker": "Abstracao\\Program.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Abstracao\\Abstracao\\Program.cs",
+              "RelativeToolTip": "Abstracao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:17:42.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

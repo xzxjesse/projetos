@@ -1,0 +1,4 @@
+C:\Users\jeeve\source\repos\CalculadoraMediaEscolar\CalculadoraMediaEscolar\obj\Debug\net8.0\Exercícios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeeve\source\repos\CalculadoraMediaEscolar\CalculadoraMediaEscolar\obj\Debug\net8.0\Exercícios.AssemblyInfoInputs.cache
+C:\Users\jeeve\source\repos\CalculadoraMediaEscolar\CalculadoraMediaEscolar\obj\Debug\net8.0\Exercícios.AssemblyInfo.cs
+C:\Users\jeeve\source\repos\CalculadoraMediaEscolar\CalculadoraMediaEscolar\obj\Debug\net8.0\Exercícios.csproj.CoreCompileInputs.cache

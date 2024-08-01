@@ -1,0 +1,14 @@
+C:\Users\jeeve\source\repos\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.exe
+C:\Users\jeeve\source\repos\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.deps.json
+C:\Users\jeeve\source\repos\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.runtimeconfig.json
+C:\Users\jeeve\source\repos\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.dll
+C:\Users\jeeve\source\repos\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.pdb
+C:\Users\jeeve\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeeve\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\jeeve\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\jeeve\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\jeeve\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.dll
+C:\Users\jeeve\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0\refint\Polimorfismo.dll
+C:\Users\jeeve\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.pdb
+C:\Users\jeeve\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.genruntimeconfig.cache
+C:\Users\jeeve\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0\ref\Polimorfismo.dll

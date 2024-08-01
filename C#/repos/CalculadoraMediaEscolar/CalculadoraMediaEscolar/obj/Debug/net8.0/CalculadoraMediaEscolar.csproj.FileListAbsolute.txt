@@ -1,0 +1,14 @@
+C:\Users\jeeve\source\repos\CalculadoraMediaEscolar\CalculadoraMediaEscolar\bin\Debug\net8.0\CalculadoraMediaEscolar.exe
+C:\Users\jeeve\source\repos\CalculadoraMediaEscolar\CalculadoraMediaEscolar\bin\Debug\net8.0\CalculadoraMediaEscolar.deps.json
+C:\Users\jeeve\source\repos\CalculadoraMediaEscolar\CalculadoraMediaEscolar\bin\Debug\net8.0\CalculadoraMediaEscolar.runtimeconfig.json
+C:\Users\jeeve\source\repos\CalculadoraMediaEscolar\CalculadoraMediaEscolar\bin\Debug\net8.0\CalculadoraMediaEscolar.dll
+C:\Users\jeeve\source\repos\CalculadoraMediaEscolar\CalculadoraMediaEscolar\bin\Debug\net8.0\CalculadoraMediaEscolar.pdb
+C:\Users\jeeve\source\repos\CalculadoraMediaEscolar\CalculadoraMediaEscolar\obj\Debug\net8.0\CalculadoraMediaEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeeve\source\repos\CalculadoraMediaEscolar\CalculadoraMediaEscolar\obj\Debug\net8.0\CalculadoraMediaEscolar.AssemblyInfoInputs.cache
+C:\Users\jeeve\source\repos\CalculadoraMediaEscolar\CalculadoraMediaEscolar\obj\Debug\net8.0\CalculadoraMediaEscolar.AssemblyInfo.cs
+C:\Users\jeeve\source\repos\CalculadoraMediaEscolar\CalculadoraMediaEscolar\obj\Debug\net8.0\CalculadoraMediaEscolar.csproj.CoreCompileInputs.cache
+C:\Users\jeeve\source\repos\CalculadoraMediaEscolar\CalculadoraMediaEscolar\obj\Debug\net8.0\CalculadoraMediaEscolar.dll
+C:\Users\jeeve\source\repos\CalculadoraMediaEscolar\CalculadoraMediaEscolar\obj\Debug\net8.0\refint\CalculadoraMediaEscolar.dll
+C:\Users\jeeve\source\repos\CalculadoraMediaEscolar\CalculadoraMediaEscolar\obj\Debug\net8.0\CalculadoraMediaEscolar.pdb
+C:\Users\jeeve\source\repos\CalculadoraMediaEscolar\CalculadoraMediaEscolar\obj\Debug\net8.0\CalculadoraMediaEscolar.genruntimeconfig.cache
+C:\Users\jeeve\source\repos\CalculadoraMediaEscolar\CalculadoraMediaEscolar\obj\Debug\net8.0\ref\CalculadoraMediaEscolar.dll

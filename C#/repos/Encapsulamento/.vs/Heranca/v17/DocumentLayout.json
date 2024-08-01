@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeeve\\source\\repos\\Encapsulamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BACBB5EA-4DCE-4E09-B19F-2D977E40392B}|Encapsulamento\\Encapsulamento.csproj|c:\\users\\jeeve\\source\\repos\\encapsulamento\\encapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACBB5EA-4DCE-4E09-B19F-2D977E40392B}|Encapsulamento\\Encapsulamento.csproj|solutionrelative:encapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACBB5EA-4DCE-4E09-B19F-2D977E40392B}|Encapsulamento\\Encapsulamento.csproj|c:\\users\\jeeve\\source\\repos\\encapsulamento\\encapsulamento\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACBB5EA-4DCE-4E09-B19F-2D977E40392B}|Encapsulamento\\Encapsulamento.csproj|solutionrelative:encapsulamento\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACBB5EA-4DCE-4E09-B19F-2D977E40392B}|Encapsulamento\\Heranca.csproj|c:\\users\\jeeve\\source\\repos\\encapsulamento\\encapsulamento\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACBB5EA-4DCE-4E09-B19F-2D977E40392B}|Encapsulamento\\Heranca.csproj|solutionrelative:encapsulamento\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACBB5EA-4DCE-4E09-B19F-2D977E40392B}|Encapsulamento\\Heranca.csproj|c:\\users\\jeeve\\source\\repos\\encapsulamento\\encapsulamento\\containvestimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACBB5EA-4DCE-4E09-B19F-2D977E40392B}|Encapsulamento\\Heranca.csproj|solutionrelative:encapsulamento\\containvestimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACBB5EA-4DCE-4E09-B19F-2D977E40392B}|Encapsulamento\\Heranca.csproj|c:\\users\\jeeve\\source\\repos\\encapsulamento\\encapsulamento\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACBB5EA-4DCE-4E09-B19F-2D977E40392B}|Encapsulamento\\Heranca.csproj|solutionrelative:encapsulamento\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaInvestimento.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Encapsulamento\\Encapsulamento\\ContaInvestimento.cs",
+              "RelativeDocumentMoniker": "Encapsulamento\\ContaInvestimento.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Encapsulamento\\Encapsulamento\\ContaInvestimento.cs",
+              "RelativeToolTip": "Encapsulamento\\ContaInvestimento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:55:21.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Encapsulamento\\Encapsulamento\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulamento\\Program.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Encapsulamento\\Encapsulamento\\Program.cs",
+              "RelativeToolTip": "Encapsulamento\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:04:06.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Encapsulamento\\Encapsulamento\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "Encapsulamento\\ContaCorrente.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Encapsulamento\\Encapsulamento\\ContaCorrente.cs",
+              "RelativeToolTip": "Encapsulamento\\ContaCorrente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:55:03.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContaPoupanca.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Encapsulamento\\Encapsulamento\\ContaPoupanca.cs",
+              "RelativeDocumentMoniker": "Encapsulamento\\ContaPoupanca.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Encapsulamento\\Encapsulamento\\ContaPoupanca.cs",
+              "RelativeToolTip": "Encapsulamento\\ContaPoupanca.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:54:48.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Encapsulamento\\Encapsulamento\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "Encapsulamento\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Encapsulamento\\Encapsulamento\\ContaBancaria.cs",
+              "RelativeToolTip": "Encapsulamento\\ContaBancaria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:05:18.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

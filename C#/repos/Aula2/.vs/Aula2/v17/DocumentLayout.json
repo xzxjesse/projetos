@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeeve\\source\\repos\\Aula2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8891343-DE92-40E5-84D5-576A06B8CA39}|Aula2\\Aula2.csproj|c:\\users\\jeeve\\source\\repos\\aula2\\aula2\\terror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8891343-DE92-40E5-84D5-576A06B8CA39}|Aula2\\Aula2.csproj|solutionrelative:aula2\\terror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8891343-DE92-40E5-84D5-576A06B8CA39}|Aula2\\Aula2.csproj|c:\\users\\jeeve\\source\\repos\\aula2\\aula2\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8891343-DE92-40E5-84D5-576A06B8CA39}|Aula2\\Aula2.csproj|solutionrelative:aula2\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8891343-DE92-40E5-84D5-576A06B8CA39}|Aula2\\Aula2.csproj|c:\\users\\jeeve\\source\\repos\\aula2\\aula2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8891343-DE92-40E5-84D5-576A06B8CA39}|Aula2\\Aula2.csproj|solutionrelative:aula2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8891343-DE92-40E5-84D5-576A06B8CA39}|Aula2\\Aula2.csproj|c:\\users\\jeeve\\source\\repos\\aula2\\aula2\\romance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8891343-DE92-40E5-84D5-576A06B8CA39}|Aula2\\Aula2.csproj|solutionrelative:aula2\\romance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8891343-DE92-40E5-84D5-576A06B8CA39}|Aula2\\Aula2.csproj|c:\\users\\jeeve\\source\\repos\\aula2\\aula2\\aula2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8891343-DE92-40E5-84D5-576A06B8CA39}|Aula2\\Aula2.csproj|solutionrelative:aula2\\aula2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aula2.csproj",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Aula2\\Aula2\\Aula2.csproj",
+              "RelativeDocumentMoniker": "Aula2\\Aula2.csproj",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Aula2\\Aula2\\Aula2.csproj",
+              "RelativeToolTip": "Aula2\\Aula2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T23:38:41.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Romance.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Aula2\\Aula2\\Romance.cs",
+              "RelativeDocumentMoniker": "Aula2\\Romance.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Aula2\\Aula2\\Romance.cs",
+              "RelativeToolTip": "Aula2\\Romance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:43:54.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Terror.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Aula2\\Aula2\\Terror.cs",
+              "RelativeDocumentMoniker": "Aula2\\Terror.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Aula2\\Aula2\\Terror.cs",
+              "RelativeToolTip": "Aula2\\Terror.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:43:44.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Aula2\\Aula2\\Livro.cs",
+              "RelativeDocumentMoniker": "Aula2\\Livro.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Aula2\\Aula2\\Livro.cs",
+              "RelativeToolTip": "Aula2\\Livro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:38:59.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Aula2\\Aula2\\Program.cs",
+              "RelativeDocumentMoniker": "Aula2\\Program.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Aula2\\Aula2\\Program.cs",
+              "RelativeToolTip": "Aula2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:36:33.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

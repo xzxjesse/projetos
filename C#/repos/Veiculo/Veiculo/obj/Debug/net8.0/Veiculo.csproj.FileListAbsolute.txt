@@ -1,0 +1,4 @@
+C:\Users\jeeve\source\repos\Veiculo\Veiculo\obj\Debug\net8.0\Veiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeeve\source\repos\Veiculo\Veiculo\obj\Debug\net8.0\Veiculo.AssemblyInfoInputs.cache
+C:\Users\jeeve\source\repos\Veiculo\Veiculo\obj\Debug\net8.0\Veiculo.AssemblyInfo.cs
+C:\Users\jeeve\source\repos\Veiculo\Veiculo\obj\Debug\net8.0\Veiculo.csproj.CoreCompileInputs.cache
