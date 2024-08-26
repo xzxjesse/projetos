@@ -2,8 +2,9 @@
 {
     public class PessoaModel
     {
-        public int ID { get; set; }
+        public int IDPessoa { get; set; }
         public string Nome { get; set; }
-        public string Telefone { get; set; }
+        public DateTime DataNascimento { get; set; }
+        public string Email { get; set; }
     }
 }

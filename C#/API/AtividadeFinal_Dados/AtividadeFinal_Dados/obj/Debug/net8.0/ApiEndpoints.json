@@ -18,5 +18,37 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "PessoaController",
+    "Method": "Codigo",
+    "RelativePath": "api/Pessoa/id/{ID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PessoaController",
+    "Method": "Nome",
+    "RelativePath": "api/Pessoa/user/{nome}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

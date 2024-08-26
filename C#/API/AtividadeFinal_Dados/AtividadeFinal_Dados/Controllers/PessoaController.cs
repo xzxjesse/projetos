@@ -19,4 +19,30 @@ public class PessoaController : ControllerBase
     {
         return _repository.Todas();
     }
+
+    [HttpGet("id/{ID}")]
+    public IActionResult Codigo(int ID)
+    {
+        var pessoa = _repository.Codigo(ID);
+
+        if (pessoa == null)
+        {
+            return NotFound();
+        }
+
+        return Ok(pessoa);
+    }
+
+    [HttpGet("user/{nome}")]
+    public IActionResult Nome(string nome)
+    {
+        var pessoas = _repository.Nome(nome);
+
+        if (pessoas == null || !pessoas.Any())
+        {
+            return NotFound();
+        }
+
+        return Ok(pessoas);
+    }
 }
