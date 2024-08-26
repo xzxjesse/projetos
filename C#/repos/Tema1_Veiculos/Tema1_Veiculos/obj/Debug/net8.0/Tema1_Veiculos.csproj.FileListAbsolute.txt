@@ -1,0 +1,14 @@
+C:\Users\jeeve\source\repos\Tema1_Veiculos\Tema1_Veiculos\obj\Debug\net8.0\Tema1_Veiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeeve\source\repos\Tema1_Veiculos\Tema1_Veiculos\obj\Debug\net8.0\Tema1_Veiculos.AssemblyInfoInputs.cache
+C:\Users\jeeve\source\repos\Tema1_Veiculos\Tema1_Veiculos\obj\Debug\net8.0\Tema1_Veiculos.AssemblyInfo.cs
+C:\Users\jeeve\source\repos\Tema1_Veiculos\Tema1_Veiculos\obj\Debug\net8.0\Tema1_Veiculos.csproj.CoreCompileInputs.cache
+C:\Users\jeeve\source\repos\Tema1_Veiculos\Tema1_Veiculos\bin\Debug\net8.0\Tema1_Veiculos.exe
+C:\Users\jeeve\source\repos\Tema1_Veiculos\Tema1_Veiculos\bin\Debug\net8.0\Tema1_Veiculos.deps.json
+C:\Users\jeeve\source\repos\Tema1_Veiculos\Tema1_Veiculos\bin\Debug\net8.0\Tema1_Veiculos.runtimeconfig.json
+C:\Users\jeeve\source\repos\Tema1_Veiculos\Tema1_Veiculos\bin\Debug\net8.0\Tema1_Veiculos.dll
+C:\Users\jeeve\source\repos\Tema1_Veiculos\Tema1_Veiculos\bin\Debug\net8.0\Tema1_Veiculos.pdb
+C:\Users\jeeve\source\repos\Tema1_Veiculos\Tema1_Veiculos\obj\Debug\net8.0\Tema1_Veiculos.dll
+C:\Users\jeeve\source\repos\Tema1_Veiculos\Tema1_Veiculos\obj\Debug\net8.0\refint\Tema1_Veiculos.dll
+C:\Users\jeeve\source\repos\Tema1_Veiculos\Tema1_Veiculos\obj\Debug\net8.0\Tema1_Veiculos.pdb
+C:\Users\jeeve\source\repos\Tema1_Veiculos\Tema1_Veiculos\obj\Debug\net8.0\Tema1_Veiculos.genruntimeconfig.cache
+C:\Users\jeeve\source\repos\Tema1_Veiculos\Tema1_Veiculos\obj\Debug\net8.0\ref\Tema1_Veiculos.dll

@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|c:\\users\\jeeve\\source\\repos\\atividade_winform\\atividade_winform\\formcontasreceber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|solutionrelative:atividade_winform\\formcontasreceber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\atividade_winform\\formcontaspagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|solutionrelative:atividade_winform\\formcontaspagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\atividade_winform\\formcontasreceber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|solutionrelative:atividade_winform\\formcontasreceber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\atividade_winform\\classes\\contareceber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|solutionrelative:atividade_winform\\classes\\contareceber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\atividade_winform\\formcontaspagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|solutionrelative:atividade_winform\\formcontaspagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\atividade_winform\\classes\\validacaoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|solutionrelative:atividade_winform\\classes\\validacaoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\atividade_winform\\interfaces\\iconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|solutionrelative:atividade_winform\\interfaces\\iconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\atividade_winform\\enumerados\\estatusconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|solutionrelative:atividade_winform\\enumerados\\estatusconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\atividade_winform\\classes\\contabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|solutionrelative:atividade_winform\\classes\\contabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\atividade_winform\\classes\\contapagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|solutionrelative:atividade_winform\\classes\\contapagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\atividade_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|solutionrelative:atividade_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\atividade_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04B1529-60FA-47E9-BE1A-EE83136D5A92}|Atividade_WinForm\\Atividade_WinForm.csproj|solutionrelative:atividade_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 192,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Atividade_WinForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\Form1.cs [Design]",
+              "RelativeToolTip": "Atividade_WinForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:34:08.107Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormContasPagar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\FormContasPagar.cs",
+              "RelativeDocumentMoniker": "Atividade_WinForm\\FormContasPagar.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\FormContasPagar.cs [Design]",
+              "RelativeToolTip": "Atividade_WinForm\\FormContasPagar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T19:08:58.551Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormContasReceber.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\FormContasReceber.cs",
+              "RelativeDocumentMoniker": "Atividade_WinForm\\FormContasReceber.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\FormContasReceber.cs [Design]*",
+              "RelativeToolTip": "Atividade_WinForm\\FormContasReceber.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T19:09:21.335Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormContasReceber.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\FormContasReceber.cs",
+              "RelativeDocumentMoniker": "Atividade_WinForm\\FormContasReceber.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\FormContasReceber.cs*",
+              "RelativeToolTip": "Atividade_WinForm\\FormContasReceber.cs*",
+              "ViewState": "AgIAAIsAAAAAAAAAAIAwwKcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T19:10:22.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormContasPagar.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\FormContasPagar.cs",
+              "RelativeDocumentMoniker": "Atividade_WinForm\\FormContasPagar.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\FormContasPagar.cs",
+              "RelativeToolTip": "Atividade_WinForm\\FormContasPagar.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAowIAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T19:10:27.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IConta.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\Interfaces\\IConta.cs",
+              "RelativeDocumentMoniker": "Atividade_WinForm\\Interfaces\\IConta.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\Interfaces\\IConta.cs",
+              "RelativeToolTip": "Atividade_WinForm\\Interfaces\\IConta.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T00:10:04.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaReceber.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\Classes\\ContaReceber.cs",
+              "RelativeDocumentMoniker": "Atividade_WinForm\\Classes\\ContaReceber.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\Classes\\ContaReceber.cs",
+              "RelativeToolTip": "Atividade_WinForm\\Classes\\ContaReceber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T00:05:40.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidacaoConta.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\Classes\\ValidacaoConta.cs",
+              "RelativeDocumentMoniker": "Atividade_WinForm\\Classes\\ValidacaoConta.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\Classes\\ValidacaoConta.cs",
+              "RelativeToolTip": "Atividade_WinForm\\Classes\\ValidacaoConta.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T00:10:46.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EStatusConta.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\Enumerados\\EStatusConta.cs",
+              "RelativeDocumentMoniker": "Atividade_WinForm\\Enumerados\\EStatusConta.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\Enumerados\\EStatusConta.cs",
+              "RelativeToolTip": "Atividade_WinForm\\Enumerados\\EStatusConta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T00:07:26.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContaBase.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\Classes\\ContaBase.cs",
+              "RelativeDocumentMoniker": "Atividade_WinForm\\Classes\\ContaBase.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\Classes\\ContaBase.cs",
+              "RelativeToolTip": "Atividade_WinForm\\Classes\\ContaBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T00:05:25.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContaPagar.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\Classes\\ContaPagar.cs",
+              "RelativeDocumentMoniker": "Atividade_WinForm\\Classes\\ContaPagar.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\Classes\\ContaPagar.cs",
+              "RelativeToolTip": "Atividade_WinForm\\Classes\\ContaPagar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T00:05:50.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Atividade_WinForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Atividade_WinForm\\Atividade_WinForm\\Form1.cs",
+              "RelativeToolTip": "Atividade_WinForm\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:38:04.308Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

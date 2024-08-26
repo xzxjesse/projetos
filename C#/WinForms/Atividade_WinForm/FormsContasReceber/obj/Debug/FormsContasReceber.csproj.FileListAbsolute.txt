@@ -1,0 +1,11 @@
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormsContasReceber\bin\Debug\FormsContasReceber.exe.config
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormsContasReceber\bin\Debug\FormsContasReceber.exe
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormsContasReceber\bin\Debug\FormsContasReceber.pdb
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormsContasReceber\obj\Debug\FormsContasReceber.csproj.AssemblyReference.cache
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormsContasReceber\obj\Debug\FormsContasReceber.FormContasReceber.resources
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormsContasReceber\obj\Debug\FormsContasReceber.Properties.Resources.resources
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormsContasReceber\obj\Debug\FormsContasReceber.csproj.GenerateResource.cache
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormsContasReceber\obj\Debug\FormsContasReceber.csproj.CoreCompileInputs.cache
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormsContasReceber\obj\Debug\FormsContasReceber.exe
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormsContasReceber\obj\Debug\FormsContasReceber.pdb
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormsContasReceber\obj\Debug\Atividade_WinForm.FormContasReceber.resources

@@ -1,0 +1,11 @@
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormContasPagar\bin\Debug\FormContasPagar.exe.config
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormContasPagar\bin\Debug\FormContasPagar.exe
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormContasPagar\bin\Debug\FormContasPagar.pdb
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormContasPagar\obj\Debug\FormContasPagar.csproj.AssemblyReference.cache
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormContasPagar\obj\Debug\FormContasPagar.FormContasPagar.resources
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormContasPagar\obj\Debug\FormContasPagar.Properties.Resources.resources
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormContasPagar\obj\Debug\FormContasPagar.csproj.GenerateResource.cache
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormContasPagar\obj\Debug\FormContasPagar.csproj.CoreCompileInputs.cache
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormContasPagar\obj\Debug\FormContasPagar.exe
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormContasPagar\obj\Debug\FormContasPagar.pdb
+C:\Users\jeeve\source\repos\Atividade_WinForm\FormContasPagar\obj\Debug\Atividade_WinForm.FormContasPagar.resources

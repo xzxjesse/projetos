@@ -1,0 +1,12 @@
+C:\Users\jeeve\source\repos\Atividade_WinForm\Atividade_WinForm\obj\Debug\Atividade_WinForm.csproj.AssemblyReference.cache
+C:\Users\jeeve\source\repos\Atividade_WinForm\Atividade_WinForm\obj\Debug\Atividade_WinForm.Atividade_WinForm.resources
+C:\Users\jeeve\source\repos\Atividade_WinForm\Atividade_WinForm\obj\Debug\Atividade_WinForm.Properties.Resources.resources
+C:\Users\jeeve\source\repos\Atividade_WinForm\Atividade_WinForm\obj\Debug\Atividade_WinForm.csproj.GenerateResource.cache
+C:\Users\jeeve\source\repos\Atividade_WinForm\Atividade_WinForm\obj\Debug\Atividade_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\jeeve\source\repos\Atividade_WinForm\Atividade_WinForm\bin\Debug\Atividade_WinForm.exe.config
+C:\Users\jeeve\source\repos\Atividade_WinForm\Atividade_WinForm\bin\Debug\Atividade_WinForm.exe
+C:\Users\jeeve\source\repos\Atividade_WinForm\Atividade_WinForm\bin\Debug\Atividade_WinForm.pdb
+C:\Users\jeeve\source\repos\Atividade_WinForm\Atividade_WinForm\obj\Debug\Atividade_WinForm.FormContasPagar.resources
+C:\Users\jeeve\source\repos\Atividade_WinForm\Atividade_WinForm\obj\Debug\Atividade_WinForm.FormContasReceber.resources
+C:\Users\jeeve\source\repos\Atividade_WinForm\Atividade_WinForm\obj\Debug\Atividade_WinForm.exe
+C:\Users\jeeve\source\repos\Atividade_WinForm\Atividade_WinForm\obj\Debug\Atividade_WinForm.pdb
