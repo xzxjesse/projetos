@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R6xuNP13JtU=",
+  "dgSpecHash": "Y/wM1ASmHW8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeeve\\source\\repos\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj",
+  "projectFilePath": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeeve\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\jeeve\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

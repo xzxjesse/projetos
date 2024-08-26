@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jeeve\\source\\repos\\AtividadeFinal_Dados\\",
+  "WorkspaceRootPath": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|c:\\users\\jeeve\\source\\repos\\atividadefinal_dados\\atividadefinal_dados\\bancodedados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|c:\\users\\jeeve\\documents\\projetos\\c#\\api\\atividadefinal_dados\\atividadefinal_dados\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|solutionrelative:atividadefinal_dados\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|c:\\users\\jeeve\\documents\\projetos\\c#\\api\\atividadefinal_dados\\atividadefinal_dados\\bancodedados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|solutionrelative:atividadefinal_dados\\bancodedados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|c:\\users\\jeeve\\source\\repos\\atividadefinal_dados\\atividadefinal_dados\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|c:\\users\\jeeve\\documents\\projetos\\c#\\api\\atividadefinal_dados\\atividadefinal_dados\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|solutionrelative:atividadefinal_dados\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|c:\\users\\jeeve\\source\\repos\\atividadefinal_dados\\atividadefinal_dados\\bancodedados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "AbsoluteMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|c:\\users\\jeeve\\documents\\projetos\\c#\\api\\atividadefinal_dados\\atividadefinal_dados\\bancodedados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
       "RelativeMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|solutionrelative:atividadefinal_dados\\bancodedados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
@@ -25,37 +29,49 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\appsettings.json",
-              "RelativeDocumentMoniker": "AtividadeFinal_Dados\\appsettings.json",
-              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\appsettings.json",
-              "RelativeToolTip": "AtividadeFinal_Dados\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-26T16:21:20.502Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "AtividadeFinal_Dados\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\Models\\Pessoa.cs",
+              "RelativeToolTip": "AtividadeFinal_Dados\\Models\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:31:09.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\appsettings.json",
+              "RelativeDocumentMoniker": "AtividadeFinal_Dados\\appsettings.json",
+              "ToolTip": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\appsettings.json",
+              "RelativeToolTip": "AtividadeFinal_Dados\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T16:21:20.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BancoDeDados.sql ",
-              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\BancoDeDados.sql",
+              "DocumentMoniker": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\BancoDeDados.sql",
               "RelativeDocumentMoniker": "AtividadeFinal_Dados\\BancoDeDados.sql",
-              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\BancoDeDados.sql",
+              "ToolTip": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\BancoDeDados.sql",
               "RelativeToolTip": "AtividadeFinal_Dados\\BancoDeDados.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-08-26T16:19:41.951Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeeve\\source\\repos\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj": {}
+    "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeeve\\source\\repos\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj": {
+    "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeeve\\source\\repos\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj",
+        "projectUniqueName": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj",
         "projectName": "AtividadeFinal_Dados",
-        "projectPath": "C:\\Users\\jeeve\\source\\repos\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj",
+        "projectPath": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj",
         "packagesPath": "C:\\Users\\jeeve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeeve\\source\\repos\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\obj\\",
+        "outputPath": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeeve\\AppData\\Roaming\\NuGet\\NuGet.Config",
