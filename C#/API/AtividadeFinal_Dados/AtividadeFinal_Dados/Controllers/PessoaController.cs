@@ -6,22 +6,17 @@ using System.Collections.Generic;
 [ApiController]
 public class PessoaController : ControllerBase
 {
-    #region |Configurações|
     private readonly PessoaRepository _repository;
 
     public PessoaController(IConfiguration configuration)
     {
-        var connectionString = configuration.GetConnectionString("DefaultConnection");
+        var connectionString = configuration.GetConnectionString("conexao");
         _repository = new PessoaRepository(connectionString);
     }
-    #endregion
 
-    #region |Get|
     [HttpGet]
     public IEnumerable<PessoaModel> Todas()
     {
         return _repository.Todas();
     }
-    #endregion
-
 }

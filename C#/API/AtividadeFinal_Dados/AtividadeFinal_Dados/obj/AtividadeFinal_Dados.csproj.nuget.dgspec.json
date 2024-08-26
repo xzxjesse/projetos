@@ -46,13 +46,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "MySql.Data": {
+            "Microsoft.Data.SqlClient": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[5.2.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
             }
           },
           "imports": [
