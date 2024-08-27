@@ -17,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|c:\\users\\jeeve\\documents\\projetos\\c#\\api\\atividadefinal_dados\\atividadefinal_dados\\bancodedados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|solutionrelative:atividadefinal_dados\\bancodedados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|c:\\users\\jeeve\\documents\\projetos\\c#\\api\\atividadefinal_dados\\atividadefinal_dados\\bancodedados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|solutionrelative:atividadefinal_dados\\bancodedados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,7 +44,7 @@
               "RelativeDocumentMoniker": "AtividadeFinal_Dados\\Controllers\\PessoaController.cs",
               "ToolTip": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\Controllers\\PessoaController.cs",
               "RelativeToolTip": "AtividadeFinal_Dados\\Controllers\\PessoaController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwC4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T17:13:36.815Z",
               "EditorCaption": ""
@@ -61,7 +57,7 @@
               "RelativeDocumentMoniker": "AtividadeFinal_Dados\\Repositories\\PessoaRepository.cs",
               "ToolTip": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\Repositories\\PessoaRepository.cs",
               "RelativeToolTip": "AtividadeFinal_Dados\\Repositories\\PessoaRepository.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAQwHAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAywHgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T17:10:21.797Z",
               "EditorCaption": ""
@@ -82,14 +78,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BancoDeDados.sql ",
+              "Title": "BancoDeDados.sql",
               "DocumentMoniker": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\BancoDeDados.sql",
               "RelativeDocumentMoniker": "AtividadeFinal_Dados\\BancoDeDados.sql",
               "ToolTip": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\BancoDeDados.sql",
               "RelativeToolTip": "AtividadeFinal_Dados\\BancoDeDados.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-08-26T16:19:41.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T16:19:41.951Z"
             }
           ]
         }

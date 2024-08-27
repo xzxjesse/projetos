@@ -1,9 +1,11 @@
 ﻿using AtividadeFinal_Dados.Models;
+using Microsoft.AspNetCore.Mvc;
 using System.Data;
 using System.Data.SqlClient;
 
 public class PessoaRepository
 {
+    #region |Configurações|
     private readonly string _connectionString;
 
     public PessoaRepository(string connectionString)
@@ -14,7 +16,10 @@ public class PessoaRepository
         }
         _connectionString = connectionString;
     }
+    #endregion
 
+    #region |Buscas|
+    //Read
     public IEnumerable<PessoaModel> Todas()
     {                
         var pessoas = new List<PessoaModel>();
@@ -111,4 +116,84 @@ public class PessoaRepository
 
         return pessoas;
     }
+    #endregion
+
+    #region |Atualizações|
+    //Create
+    public int Adiciona(PessoaModel pessoa)
+    {
+        if (pessoa == null)
+        {
+            throw new ArgumentNullException(nameof(pessoa), "Pessoa não pode ser nula.");
+        }
+
+        try
+        {
+            using SqlConnection connection = new SqlConnection(_connectionString);
+            connection.Open();
+
+            string query = "INSERT INTO Pessoa (Nome, DataNascimento, Email) VALUES (@Nome, @DataNascimento, @Email)";
+            using SqlCommand command = new SqlCommand(query, connection);
+            command.Parameters.AddWithValue("@Nome", pessoa.Nome);
+            command.Parameters.AddWithValue("@DataNascimento", pessoa.DataNascimento);
+            command.Parameters.AddWithValue("@Email", pessoa.Email);
+
+            return command.ExecuteNonQuery();
+        }
+        catch (SqlException ex)
+        {
+            throw new Exception("Erro ao acessar o banco de dados.", ex);
+        }
+    }
+
+    //Update
+    public int Atualiza(PessoaModel pessoa)
+    {
+        if (pessoa == null)
+        {
+            throw new ArgumentNullException(nameof(pessoa), "Pessoa não pode ser nula.");
+        }
+
+        try
+        {
+            using SqlConnection connection = new SqlConnection(_connectionString);
+            connection.Open();
+
+            string query = "UPDATE Pessoa SET Nome = @Nome, DataNascimento = @DataNascimento, Email = @Email WHERE IDPessoa = @IDPessoa";
+            using SqlCommand command = new SqlCommand(query, connection);
+            command.Parameters.AddWithValue("@IDPessoa", pessoa.IDPessoa);
+            command.Parameters.AddWithValue("@Nome", pessoa.Nome);
+            command.Parameters.AddWithValue("@DataNascimento", pessoa.DataNascimento);
+            command.Parameters.AddWithValue("@Email", pessoa.Email);
+
+            return command.ExecuteNonQuery();
+        }
+        catch (SqlException ex)
+        {
+            throw new Exception("Erro ao acessar o banco de dados.", ex);
+        }
+    }
+
+    //Delete
+    public int Remove(int id)
+    {
+        try
+        {
+            using SqlConnection connection = new SqlConnection(_connectionString);
+            connection.Open();
+
+            string query = "DELETE FROM Pessoa WHERE IDPessoa = @IDPessoa";
+            using SqlCommand command = new SqlCommand(query, connection);
+            command.Parameters.AddWithValue("@IDPessoa", id);
+
+            return command.ExecuteNonQuery();
+        }
+        catch (SqlException ex)
+        {
+            throw new Exception("Erro ao acessar o banco de dados.", ex);
+        }
+    }
+
+    #endregion
+
 }
