@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "sLsLGzRQCec=",
+  "dgSpecHash": "1rBf52mgO50=",
   "success": true,
   "projectFilePath": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeeve\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\jeeve\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",
+    "C:\\Users\\jeeve\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\jeeve\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\jeeve\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\jeeve\\.nuget\\packages\\microsoft.data.sqlclient\\5.2.1\\microsoft.data.sqlclient.5.2.1.nupkg.sha512",

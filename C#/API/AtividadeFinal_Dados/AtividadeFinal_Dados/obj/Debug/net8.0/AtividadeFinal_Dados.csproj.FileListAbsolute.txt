@@ -73,3 +73,4 @@ C:\Users\jeeve\Documents\projetos\C#\API\AtividadeFinal_Dados\AtividadeFinal_Dad
 C:\Users\jeeve\Documents\projetos\C#\API\AtividadeFinal_Dados\AtividadeFinal_Dados\obj\Debug\net8.0\AtividadeFinal_Dados.pdb
 C:\Users\jeeve\Documents\projetos\C#\API\AtividadeFinal_Dados\AtividadeFinal_Dados\obj\Debug\net8.0\AtividadeFinal_Dados.genruntimeconfig.cache
 C:\Users\jeeve\Documents\projetos\C#\API\AtividadeFinal_Dados\AtividadeFinal_Dados\obj\Debug\net8.0\ref\AtividadeFinal_Dados.dll
+C:\Users\jeeve\Documents\projetos\C#\API\AtividadeFinal_Dados\AtividadeFinal_Dados\bin\Debug\net8.0\Dapper.dll

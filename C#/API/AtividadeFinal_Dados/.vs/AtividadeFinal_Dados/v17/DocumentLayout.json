@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|c:\\users\\jeeve\\documents\\projetos\\c#\\api\\atividadefinal_dados\\atividadefinal_dados\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|solutionrelative:atividadefinal_dados\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|c:\\users\\jeeve\\documents\\projetos\\c#\\api\\atividadefinal_dados\\atividadefinal_dados\\repositories\\telefonerepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|solutionrelative:atividadefinal_dados\\repositories\\telefonerepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|c:\\users\\jeeve\\documents\\projetos\\c#\\api\\atividadefinal_dados\\atividadefinal_dados\\controllers\\telefonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|solutionrelative:atividadefinal_dados\\controllers\\telefonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|c:\\users\\jeeve\\documents\\projetos\\c#\\api\\atividadefinal_dados\\atividadefinal_dados\\repositories\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|solutionrelative:atividadefinal_dados\\repositories\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|c:\\users\\jeeve\\documents\\projetos\\c#\\api\\atividadefinal_dados\\atividadefinal_dados\\models\\pessoamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|solutionrelative:atividadefinal_dados\\models\\pessoamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|c:\\users\\jeeve\\documents\\projetos\\c#\\api\\atividadefinal_dados\\atividadefinal_dados\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|solutionrelative:atividadefinal_dados\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|c:\\users\\jeeve\\documents\\projetos\\c#\\api\\atividadefinal_dados\\atividadefinal_dados\\models\\telefonemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|solutionrelative:atividadefinal_dados\\models\\telefonemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|c:\\users\\jeeve\\documents\\projetos\\c#\\api\\atividadefinal_dados\\atividadefinal_dados\\bancodedados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|solutionrelative:atividadefinal_dados\\bancodedados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|c:\\users\\jeeve\\documents\\projetos\\c#\\api\\atividadefinal_dados\\atividadefinal_dados\\models\\pessoamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|solutionrelative:atividadefinal_dados\\models\\pessoamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|c:\\users\\jeeve\\documents\\projetos\\c#\\api\\atividadefinal_dados\\atividadefinal_dados\\bancodedados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{759AE68C-1BAE-4644-9C00-DD73B871AD10}|AtividadeFinal_Dados\\AtividadeFinal_Dados.csproj|solutionrelative:atividadefinal_dados\\bancodedados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,32 +55,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TelefoneRepositoy.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\Repositories\\TelefoneRepositoy.cs",
+              "RelativeDocumentMoniker": "AtividadeFinal_Dados\\Repositories\\TelefoneRepositoy.cs",
+              "ToolTip": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\Repositories\\TelefoneRepositoy.cs",
+              "RelativeToolTip": "AtividadeFinal_Dados\\Repositories\\TelefoneRepositoy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:18:46.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TelefoneController.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\Controllers\\TelefoneController.cs",
+              "RelativeDocumentMoniker": "AtividadeFinal_Dados\\Controllers\\TelefoneController.cs",
+              "ToolTip": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\Controllers\\TelefoneController.cs",
+              "RelativeToolTip": "AtividadeFinal_Dados\\Controllers\\TelefoneController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:18:06.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TelefoneModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\Models\\TelefoneModel.cs",
+              "RelativeDocumentMoniker": "AtividadeFinal_Dados\\Models\\TelefoneModel.cs",
+              "ToolTip": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\Models\\TelefoneModel.cs",
+              "RelativeToolTip": "AtividadeFinal_Dados\\Models\\TelefoneModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:16:01.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PessoaController.cs",
               "DocumentMoniker": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\Controllers\\PessoaController.cs",
               "RelativeDocumentMoniker": "AtividadeFinal_Dados\\Controllers\\PessoaController.cs",
               "ToolTip": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\Controllers\\PessoaController.cs",
               "RelativeToolTip": "AtividadeFinal_Dados\\Controllers\\PessoaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T17:13:36.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PessoaRepository.cs",
               "DocumentMoniker": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\Repositories\\PessoaRepository.cs",
               "RelativeDocumentMoniker": "AtividadeFinal_Dados\\Repositories\\PessoaRepository.cs",
               "ToolTip": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\Repositories\\PessoaRepository.cs",
               "RelativeToolTip": "AtividadeFinal_Dados\\Repositories\\PessoaRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAywHgAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAqwMcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T17:10:21.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "PessoaModel.cs",
               "DocumentMoniker": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\Models\\PessoaModel.cs",
               "RelativeDocumentMoniker": "AtividadeFinal_Dados\\Models\\PessoaModel.cs",
@@ -77,14 +132,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BancoDeDados.sql",
+              "DocumentIndex": 5,
+              "Title": "BancoDeDados.sql ",
               "DocumentMoniker": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\BancoDeDados.sql",
               "RelativeDocumentMoniker": "AtividadeFinal_Dados\\BancoDeDados.sql",
               "ToolTip": "C:\\Users\\jeeve\\Documents\\projetos\\C#\\API\\AtividadeFinal_Dados\\AtividadeFinal_Dados\\BancoDeDados.sql",
               "RelativeToolTip": "AtividadeFinal_Dados\\BancoDeDados.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-08-26T16:19:41.951Z"
+              "WhenOpened": "2024-08-26T16:19:41.951Z",
+              "EditorCaption": ""
             }
           ]
         }

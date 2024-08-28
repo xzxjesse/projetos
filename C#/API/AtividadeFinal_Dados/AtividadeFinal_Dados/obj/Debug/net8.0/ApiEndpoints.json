@@ -38,7 +38,7 @@
   {
     "ContainingType": "PessoaController",
     "Method": "Codigo",
-    "RelativePath": "api/Pessoa/id/{ID}",
+    "RelativePath": "api/Pessoa/{codigo}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -46,6 +46,11 @@
       {
         "Name": "ID",
         "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "codigo",
+        "Type": "",
         "IsRequired": true
       }
     ],
@@ -54,7 +59,7 @@
   {
     "ContainingType": "PessoaController",
     "Method": "Atualiza",
-    "RelativePath": "api/Pessoa/id/{ID}",
+    "RelativePath": "api/Pessoa/{codigo}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -62,11 +67,16 @@
       {
         "Name": "ID",
         "Type": "System.Int32",
-        "IsRequired": true
+        "IsRequired": false
       },
       {
         "Name": "pessoa",
         "Type": "AtividadeFinal_Dados.Models.PessoaModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "codigo",
+        "Type": "",
         "IsRequired": true
       }
     ],
@@ -75,7 +85,7 @@
   {
     "ContainingType": "PessoaController",
     "Method": "Remove",
-    "RelativePath": "api/Pessoa/id/{ID}",
+    "RelativePath": "api/Pessoa/{codigo}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -83,6 +93,11 @@
       {
         "Name": "ID",
         "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "codigo",
+        "Type": "",
         "IsRequired": true
       }
     ],
@@ -91,7 +106,7 @@
   {
     "ContainingType": "PessoaController",
     "Method": "Nome",
-    "RelativePath": "api/Pessoa/user/{nome}",
+    "RelativePath": "api/Pessoa/{user}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -99,6 +114,152 @@
       {
         "Name": "nome",
         "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "user",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelefoneController",
+    "Method": "Todos",
+    "RelativePath": "api/Telefone",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[AtividadeFinal_Dados.Models.TelefoneModel, AtividadeFinal_Dados, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TelefoneController",
+    "Method": "Adiciona",
+    "RelativePath": "api/Telefone",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "telefone",
+        "Type": "AtividadeFinal_Dados.Models.TelefoneModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelefoneController",
+    "Method": "Codigo",
+    "RelativePath": "api/Telefone/{codigo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "codigo",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelefoneController",
+    "Method": "Atualiza",
+    "RelativePath": "api/Telefone/{codigo}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "telefone",
+        "Type": "AtividadeFinal_Dados.Models.TelefoneModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "codigo",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelefoneController",
+    "Method": "Deleta",
+    "RelativePath": "api/Telefone/{codigo}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "codigo",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelefoneController",
+    "Method": "Numero",
+    "RelativePath": "api/Telefone/{numero}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numero",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelefoneController",
+    "Method": "Pessoa",
+    "RelativePath": "api/Telefone/pessoa/{codigo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPessoa",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "codigo",
+        "Type": "",
         "IsRequired": true
       }
     ],

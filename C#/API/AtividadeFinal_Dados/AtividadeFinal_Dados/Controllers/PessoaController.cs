@@ -24,7 +24,7 @@ public class PessoaController : ControllerBase
         return _repository.Todas();
     }
 
-    [HttpGet("id/{ID}")]
+    [HttpGet("{codigo}")]
     public IActionResult Codigo(int ID)
     {
         var pessoa = _repository.Codigo(ID);
@@ -37,7 +37,7 @@ public class PessoaController : ControllerBase
         return Ok(pessoa);
     }
 
-    [HttpGet("user/{nome}")]
+    [HttpGet("{user}")]
     public IActionResult Nome(string nome)
     {
         var pessoas = _repository.Nome(nome);
@@ -73,9 +73,8 @@ public class PessoaController : ControllerBase
         }
     }
 
-
     //Update
-    [HttpPut("id/{ID}")]
+    [HttpPut("{codigo}")]
     public IActionResult Atualiza(int ID, [FromBody] PessoaModel pessoa)
     {
         if (pessoa == null)
@@ -106,7 +105,7 @@ public class PessoaController : ControllerBase
     }
 
     //Delete
-    [HttpDelete("id/{ID}")]
+    [HttpDelete("{codigo}")]
     public IActionResult Remove(int ID)
     {
         try
