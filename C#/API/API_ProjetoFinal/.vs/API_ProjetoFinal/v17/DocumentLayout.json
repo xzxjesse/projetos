@@ -3,29 +3,29 @@
   "WorkspaceRootPath": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|c:\\users\\jeeve\\source\\repos\\api_projetofinal\\api_projetofinal\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|solutionrelative:api_projetofinal\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|c:\\users\\jeeve\\source\\repos\\api_projetofinal\\api_projetofinal\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|solutionrelative:api_projetofinal\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|c:\\users\\jeeve\\source\\repos\\api_projetofinal\\api_projetofinal\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|solutionrelative:api_projetofinal\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|c:\\users\\jeeve\\source\\repos\\api_projetofinal\\api_projetofinal\\repositories\\vendedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|solutionrelative:api_projetofinal\\repositories\\vendedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|c:\\users\\jeeve\\source\\repos\\api_projetofinal\\api_projetofinal\\controllers\\produtocontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|solutionrelative:api_projetofinal\\controllers\\produtocontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|c:\\users\\jeeve\\source\\repos\\api_projetofinal\\api_projetofinal\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|solutionrelative:api_projetofinal\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|c:\\users\\jeeve\\source\\repos\\api_projetofinal\\api_projetofinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|solutionrelative:api_projetofinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|c:\\users\\jeeve\\source\\repos\\api_projetofinal\\api_projetofinal\\models\\vendedormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|solutionrelative:api_projetofinal\\models\\vendedormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 200,
+          "DockedWidth": 317,
           "SelectedChildIndex": 5,
           "Children": [
             {
@@ -42,52 +42,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\appsettings.json",
-              "RelativeDocumentMoniker": "API_ProjetoFinal\\appsettings.json",
-              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\appsettings.json",
-              "RelativeToolTip": "API_ProjetoFinal\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-02T19:19:56.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProdutoModel.cs",
-              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Models\\ProdutoModel.cs",
-              "RelativeDocumentMoniker": "API_ProjetoFinal\\Models\\ProdutoModel.cs",
-              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Models\\ProdutoModel.cs",
-              "RelativeToolTip": "API_ProjetoFinal\\Models\\ProdutoModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "API_ProjetoFinal\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "API_ProjetoFinal\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T18:59:28.16Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProdutoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Repositories\\ProdutoRepository.cs",
-              "RelativeDocumentMoniker": "API_ProjetoFinal\\Repositories\\ProdutoRepository.cs",
-              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Repositories\\ProdutoRepository.cs",
-              "RelativeToolTip": "API_ProjetoFinal\\Repositories\\ProdutoRepository.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAswEUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T18:55:49.31Z",
+              "WhenOpened": "2024-09-02T21:08:57.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProdutoControler.cs",
-              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Controllers\\ProdutoControler.cs",
-              "RelativeDocumentMoniker": "API_ProjetoFinal\\Controllers\\ProdutoControler.cs",
-              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Controllers\\ProdutoControler.cs",
-              "RelativeToolTip": "API_ProjetoFinal\\Controllers\\ProdutoControler.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwBEAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "VendedorModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Models\\VendedorModel.cs",
+              "RelativeDocumentMoniker": "API_ProjetoFinal\\Models\\VendedorModel.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Models\\VendedorModel.cs",
+              "RelativeToolTip": "API_ProjetoFinal\\Models\\VendedorModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T18:54:53.793Z"
+              "WhenOpened": "2024-09-02T20:35:04.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendedorController.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Controllers\\VendedorController.cs",
+              "RelativeDocumentMoniker": "API_ProjetoFinal\\Controllers\\VendedorController.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Controllers\\VendedorController.cs",
+              "RelativeToolTip": "API_ProjetoFinal\\Controllers\\VendedorController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:13:41.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Repositories\\VendedorRepository.cs",
+              "RelativeDocumentMoniker": "API_ProjetoFinal\\Repositories\\VendedorRepository.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Repositories\\VendedorRepository.cs",
+              "RelativeToolTip": "API_ProjetoFinal\\Repositories\\VendedorRepository.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv0wAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:14:09.637Z",
+              "EditorCaption": ""
             }
           ]
         }
