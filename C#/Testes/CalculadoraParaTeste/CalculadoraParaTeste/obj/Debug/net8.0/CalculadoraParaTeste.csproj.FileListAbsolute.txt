@@ -1,0 +1,11 @@
+C:\Users\jeeve\source\repos\CalculadoraParaTeste\CalculadoraParaTeste\bin\Debug\net8.0\CalculadoraParaTeste.deps.json
+C:\Users\jeeve\source\repos\CalculadoraParaTeste\CalculadoraParaTeste\bin\Debug\net8.0\CalculadoraParaTeste.dll
+C:\Users\jeeve\source\repos\CalculadoraParaTeste\CalculadoraParaTeste\bin\Debug\net8.0\CalculadoraParaTeste.pdb
+C:\Users\jeeve\source\repos\CalculadoraParaTeste\CalculadoraParaTeste\obj\Debug\net8.0\CalculadoraParaTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeeve\source\repos\CalculadoraParaTeste\CalculadoraParaTeste\obj\Debug\net8.0\CalculadoraParaTeste.AssemblyInfoInputs.cache
+C:\Users\jeeve\source\repos\CalculadoraParaTeste\CalculadoraParaTeste\obj\Debug\net8.0\CalculadoraParaTeste.AssemblyInfo.cs
+C:\Users\jeeve\source\repos\CalculadoraParaTeste\CalculadoraParaTeste\obj\Debug\net8.0\CalculadoraParaTeste.csproj.CoreCompileInputs.cache
+C:\Users\jeeve\source\repos\CalculadoraParaTeste\CalculadoraParaTeste\obj\Debug\net8.0\CalculadoraParaTeste.dll
+C:\Users\jeeve\source\repos\CalculadoraParaTeste\CalculadoraParaTeste\obj\Debug\net8.0\refint\CalculadoraParaTeste.dll
+C:\Users\jeeve\source\repos\CalculadoraParaTeste\CalculadoraParaTeste\obj\Debug\net8.0\CalculadoraParaTeste.pdb
+C:\Users\jeeve\source\repos\CalculadoraParaTeste\CalculadoraParaTeste\obj\Debug\net8.0\ref\CalculadoraParaTeste.dll
