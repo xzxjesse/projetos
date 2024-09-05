@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeeve\\source\\repos\\TestAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25BD28-A2CF-4AF9-BEF9-CBF1351EDD9F}|TestAPI\\TestAPI.csproj|c:\\users\\jeeve\\source\\repos\\testapi\\testapi\\apitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC25BD28-A2CF-4AF9-BEF9-CBF1351EDD9F}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\apitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25BD28-A2CF-4AF9-BEF9-CBF1351EDD9F}|TestAPI\\TestAPI.csproj|c:\\users\\jeeve\\source\\repos\\testapi\\testapi\\tiposdetestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC25BD28-A2CF-4AF9-BEF9-CBF1351EDD9F}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\tiposdetestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TiposDeTestes.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\TestAPI\\TestAPI\\TiposDeTestes.cs",
+              "RelativeDocumentMoniker": "TestAPI\\TiposDeTestes.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\TestAPI\\TestAPI\\TiposDeTestes.cs",
+              "RelativeToolTip": "TestAPI\\TiposDeTestes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:48:33.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APITests.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\TestAPI\\TestAPI\\APITests.cs",
+              "RelativeDocumentMoniker": "TestAPI\\APITests.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\TestAPI\\TestAPI\\APITests.cs*",
+              "RelativeToolTip": "TestAPI\\APITests.cs*",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAwwIIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:46:58.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
