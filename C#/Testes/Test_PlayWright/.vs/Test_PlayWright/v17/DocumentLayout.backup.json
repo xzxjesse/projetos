@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeeve\\source\\repos\\Test_PlayWright\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6574049-23CC-4896-9291-71D1E3CB44C3}|Test_PlayWright\\Test_PlayWright.csproj|c:\\users\\jeeve\\source\\repos\\test_playwright\\test_playwright\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6574049-23CC-4896-9291-71D1E3CB44C3}|Test_PlayWright\\Test_PlayWright.csproj|solutionrelative:test_playwright\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\Test_PlayWright\\Test_PlayWright\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Test_PlayWright\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\Test_PlayWright\\Test_PlayWright\\UnitTest1.cs",
+              "RelativeToolTip": "Test_PlayWright\\UnitTest1.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:05:55.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
