@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|c:\\users\\jeeve\\source\\repos\\api_projetofinal\\api_projetofinal\\api_projetofinal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|solutionrelative:api_projetofinal\\api_projetofinal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|c:\\users\\jeeve\\source\\repos\\api_projetofinal\\api_projetofinal\\repositories\\vendedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|solutionrelative:api_projetofinal\\repositories\\vendedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|c:\\users\\jeeve\\source\\repos\\api_projetofinal\\api_projetofinal\\models\\vendedormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|solutionrelative:api_projetofinal\\models\\vendedormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|c:\\users\\jeeve\\source\\repos\\api_projetofinal\\api_projetofinal\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|solutionrelative:api_projetofinal\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|c:\\users\\jeeve\\source\\repos\\api_projetofinal\\api_projetofinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|solutionrelative:api_projetofinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|c:\\users\\jeeve\\source\\repos\\api_projetofinal\\api_projetofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|solutionrelative:api_projetofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|c:\\users\\jeeve\\source\\repos\\api_projetofinal\\api_projetofinal\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|solutionrelative:api_projetofinal\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|c:\\users\\jeeve\\source\\repos\\api_projetofinal\\api_projetofinal\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|solutionrelative:api_projetofinal\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|c:\\users\\jeeve\\source\\repos\\api_projetofinal\\api_projetofinal\\api_projetofinal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|solutionrelative:api_projetofinal\\api_projetofinal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|c:\\users\\jeeve\\source\\repos\\api_projetofinal\\api_projetofinal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A0B60F0-A824-4CA0-BBEC-62BE773415C1}|API_ProjetoFinal\\API_ProjetoFinal.csproj|solutionrelative:api_projetofinal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 317,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "API_ProjetoFinal",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\API_ProjetoFinal.csproj",
+              "RelativeDocumentMoniker": "API_ProjetoFinal\\API_ProjetoFinal.csproj",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\API_ProjetoFinal.csproj",
+              "RelativeToolTip": "API_ProjetoFinal\\API_ProjetoFinal.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T01:53:58.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "API_ProjetoFinal.http",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\API_ProjetoFinal.http",
+              "RelativeDocumentMoniker": "API_ProjetoFinal\\API_ProjetoFinal.http",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\API_ProjetoFinal.http",
+              "RelativeToolTip": "API_ProjetoFinal\\API_ProjetoFinal.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-03T01:42:49.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API_ProjetoFinal\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API_ProjetoFinal\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T01:42:12.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\appsettings.json",
+              "RelativeDocumentMoniker": "API_ProjetoFinal\\appsettings.json",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\appsettings.json",
+              "RelativeToolTip": "API_ProjetoFinal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T01:41:40.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Program.cs",
+              "RelativeDocumentMoniker": "API_ProjetoFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Program.cs",
+              "RelativeToolTip": "API_ProjetoFinal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T01:41:32.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "API_ProjetoFinal\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "API_ProjetoFinal\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T01:41:29.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "API_ProjetoFinal\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "API_ProjetoFinal\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:08:57.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendedorModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Models\\VendedorModel.cs",
+              "RelativeDocumentMoniker": "API_ProjetoFinal\\Models\\VendedorModel.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Models\\VendedorModel.cs",
+              "RelativeToolTip": "API_ProjetoFinal\\Models\\VendedorModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:35:04.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VendedorController.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Controllers\\VendedorController.cs",
+              "RelativeDocumentMoniker": "API_ProjetoFinal\\Controllers\\VendedorController.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Controllers\\VendedorController.cs",
+              "RelativeToolTip": "API_ProjetoFinal\\Controllers\\VendedorController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAuwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:13:41.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Repositories\\VendedorRepository.cs",
+              "RelativeDocumentMoniker": "API_ProjetoFinal\\Repositories\\VendedorRepository.cs",
+              "ToolTip": "C:\\Users\\jeeve\\source\\repos\\API_ProjetoFinal\\API_ProjetoFinal\\Repositories\\VendedorRepository.cs",
+              "RelativeToolTip": "API_ProjetoFinal\\Repositories\\VendedorRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:14:09.637Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
